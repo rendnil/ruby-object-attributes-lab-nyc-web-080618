@@ -8,8 +8,8 @@ class Person
   end  
   
   
-  def job=(dog_job)
-    @job = dog_job
+  def job=(person_job)
+    @job = person_job
   end
   
   def job
